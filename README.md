@@ -83,7 +83,10 @@ Building **TripNest** taught me how authentication, databases, payments, and bac
 
 A production-ready hotel booking platform inspired by Airbnb and Booking.com.
 
-> **📷 Add a screenshot of TripNest here for maximum impact.**
+<p align="center">
+  <img src="images/home.png" alt="TripNest Home" width="49%"/>
+  <img src="images/dashboard.png" alt="TripNest Dashboard" width="49%"/>
+</p>
 
 **Stack:** Next.js 16 · React · TypeScript · Tailwind CSS · shadcn/ui · PostgreSQL · Supabase · Stripe
 
