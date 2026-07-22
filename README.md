@@ -117,9 +117,9 @@ A production-ready hotel booking platform inspired by Airbnb and Booking.com.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vivek6126&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vivek6126&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek6126&layout=compact&theme=transparent&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vivek6126&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 
 </div>
 
